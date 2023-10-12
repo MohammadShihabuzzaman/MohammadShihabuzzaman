@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsMzFvb24zbXptNTBieG55bXY2eGtmdXNuZW1scHZsOXdsMDRoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOhnaSgtYvZYzjzgVj/giphy.gif)" width="100"/>
+</div>
+
+
+
+
 # 💫 About Me:
 🎮 Exceptional Unreal Engine game developer with a creative edge and technical expertise.<br>Crafting immersive gaming experiences through innovative gameplay mechanics, stunning visual effects, and optimized performance. 🚀<br><br>👨‍💻 My expertise includes Game design, C++, Blueprints ,Multiplayer development, level design, Lighting & Post Processing, User interface design, Game testing and debugging, Optimization and performance tuning.<br><br>Adept at innovative problem-solving, I thrive in collaborative environments, delivering exceptional results and meeting deadlines. Lifelong learner staying updated with the latest industry advancements 👨🏻‍🎓<br><br>Let's bring extraordinary games to life! 🎉<br>#UnrealEngine #GameDeveloper
 
