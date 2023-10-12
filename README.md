@@ -15,6 +15,12 @@
 I'm an Exceptional Unreal Engine game developer with a creative edge and technical expertise.<br>Crafting immersive gaming experiences through innovative gameplay mechanics, stunning visual effects, and optimized performance. 🚀<br><br>👨‍💻 My expertise includes Game design, C++, Blueprints ,Multiplayer development, level design, Lighting & Post Processing, User interface design, Game testing and debugging, Optimization and performance tuning.<br><br>Adept at innovative problem-solving, I thrive in collaborative environments, delivering exceptional results and meeting deadlines. Lifelong learner staying updated with the latest industry advancements 👨🏻‍🎓<br><br>Let's bring extraordinary games to life! 🎉<br>#UnrealEngine #GameDeveloper
 <br>
 
+### 🖥 Working Experience With :
+![Playfab](https://custom-icon-badges.demolab.com/badge/Playfab-ff944d?logo=pf%20-%20resized%202023-10-13%2003-59-26&logoColor=white) ![Static Badge](https://img.shields.io/badge/Epic_Online_Service-cccccc?logo=epicgames&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Firebase-ffbf00?logo=firebase)
+
+
+<br>
+
 ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihabuzzaman) 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](MohammadShihabuzzaman@gmail.com) 
