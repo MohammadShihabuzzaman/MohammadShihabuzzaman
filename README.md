@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihabuzzaman) 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](MohammadShihabuzzaman@gmail.com) 
-[![git](https://img.shields.io/badge/logo-gitlab-blue?logo=[gitlab](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F69119%2Fgithub-inverted&psig=AOvVaw04FqOY01LCDcKFQsZ6wTrA&ust=1697229316877000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDBuoWu8YEDFQAAAAAdAAAAABAE))
+[![git](https://img.shields.io/badge/logo-gitlab-blue?logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F69119%2Fgithub-inverted&psig=AOvVaw04FqOY01LCDcKFQsZ6wTrA&ust=1697229316877000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDBuoWu8YEDFQAAAAAdAAAAABAE))
 
 
 # 💻 Tech Stack:
