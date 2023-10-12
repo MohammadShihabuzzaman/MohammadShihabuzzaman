@@ -13,6 +13,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 </div>
 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohammadShihabuzzaman&theme=swift&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadShihabuzzaman&theme=swift&hide_border=true)<br/>
